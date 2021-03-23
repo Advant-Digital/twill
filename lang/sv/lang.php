@@ -277,7 +277,7 @@ return [
         'save-success' => 'Innehåll sparat. Allt väl!',
         'start-date' => 'Startdatum',
         'switcher-title' => 'Status',
-        'update' => 'Uppdatering',
+        'update' => 'Uppdatera',
         'update-close' => 'Uppdatera och stäng',
         'update-new' => 'Uppdatera och skapa ny',
         'parent-page' => 'Föräldersida',
