@@ -117,7 +117,7 @@ return [
                 'title' => 'Radera innehåll',
             ],
         ],
-        'editor' => 'Redaktör',
+        'editor' => 'Redigerare',
     ],
     'lang-manager' => [
         'published' => 'Publicerad',
